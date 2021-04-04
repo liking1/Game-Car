@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tlvla\\source\\repos\\Calculator and Cars\\Calculator and Cars\\Calculator and Cars.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tlvla\\source\\repos\\Calculator and Cars\\Calculator and Cars\\Calculator and Cars.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tlvla\\source\\repos\\Calculator and Cars\\Calculator and Cars\\Calculator and Cars.csproj",
+        "projectName": "Calculator and Cars",
+        "projectPath": "C:\\Users\\tlvla\\source\\repos\\Calculator and Cars\\Calculator and Cars\\Calculator and Cars.csproj",
+        "packagesPath": "C:\\Users\\tlvla\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tlvla\\source\\repos\\Calculator and Cars\\Calculator and Cars\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tlvla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

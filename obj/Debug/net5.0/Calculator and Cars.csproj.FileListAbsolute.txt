@@ -1,0 +1,16 @@
+C:\Users\tlvla\source\repos\Calculator and Cars\Calculator and Cars\bin\Debug\net5.0\Calculator and Cars.exe
+C:\Users\tlvla\source\repos\Calculator and Cars\Calculator and Cars\bin\Debug\net5.0\Calculator and Cars.deps.json
+C:\Users\tlvla\source\repos\Calculator and Cars\Calculator and Cars\bin\Debug\net5.0\Calculator and Cars.runtimeconfig.json
+C:\Users\tlvla\source\repos\Calculator and Cars\Calculator and Cars\bin\Debug\net5.0\Calculator and Cars.runtimeconfig.dev.json
+C:\Users\tlvla\source\repos\Calculator and Cars\Calculator and Cars\bin\Debug\net5.0\Calculator and Cars.dll
+C:\Users\tlvla\source\repos\Calculator and Cars\Calculator and Cars\bin\Debug\net5.0\ref\Calculator and Cars.dll
+C:\Users\tlvla\source\repos\Calculator and Cars\Calculator and Cars\bin\Debug\net5.0\Calculator and Cars.pdb
+C:\Users\tlvla\source\repos\Calculator and Cars\Calculator and Cars\obj\Debug\net5.0\Calculator and Cars.csprojAssemblyReference.cache
+C:\Users\tlvla\source\repos\Calculator and Cars\Calculator and Cars\obj\Debug\net5.0\Calculator and Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tlvla\source\repos\Calculator and Cars\Calculator and Cars\obj\Debug\net5.0\Calculator and Cars.AssemblyInfoInputs.cache
+C:\Users\tlvla\source\repos\Calculator and Cars\Calculator and Cars\obj\Debug\net5.0\Calculator and Cars.AssemblyInfo.cs
+C:\Users\tlvla\source\repos\Calculator and Cars\Calculator and Cars\obj\Debug\net5.0\Calculator and Cars.csproj.CoreCompileInputs.cache
+C:\Users\tlvla\source\repos\Calculator and Cars\Calculator and Cars\obj\Debug\net5.0\Calculator and Cars.dll
+C:\Users\tlvla\source\repos\Calculator and Cars\Calculator and Cars\obj\Debug\net5.0\ref\Calculator and Cars.dll
+C:\Users\tlvla\source\repos\Calculator and Cars\Calculator and Cars\obj\Debug\net5.0\Calculator and Cars.pdb
+C:\Users\tlvla\source\repos\Calculator and Cars\Calculator and Cars\obj\Debug\net5.0\Calculator and Cars.genruntimeconfig.cache
